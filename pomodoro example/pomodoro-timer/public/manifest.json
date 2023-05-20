@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Pomodoro",
+    "description": "Basic extension example",
+    "version": "1.0",
+    "action": {
+      "default_title": "Hello Extensions",
+      "default_popup": "index.html",
+      "default_icon": "icon.png"
+    }
+  }
